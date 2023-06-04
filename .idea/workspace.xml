@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6910914e-8240-4487-adeb-c9b9a3d95577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alura.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Ejemplo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/model/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/model/Aula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/model/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +35,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/leoo9/IdeaProjects/1846-Java-y-JDBC-Trabajando-con-una-Base-de-Datos-aula-2-views"
   }
 }]]></component>
   <component name="RecentsManager">
